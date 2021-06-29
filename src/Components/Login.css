@@ -1,0 +1,19 @@
+.card{
+    display: inline-block;
+    height: 150px ;
+    border: 1px solid black ;
+    padding: 20px;
+    background: wheat;
+}
+.content{
+    position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+input{
+    margin: 10px;
+}
+.error{
+    color: red;
+}
